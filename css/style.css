@@ -733,7 +733,7 @@ select::-ms-expand {
 .header__prod-wrapper {
   display: table-cell;
   vertical-align: middle;
-  width: 160px;
+  width: 180px;
   padding: 0 10px;
 }
 
@@ -755,7 +755,7 @@ select::-ms-expand {
 .header__product {
   display: table-cell;
   vertical-align: middle;
-  padding: 0 40px;
+  padding: 0 20px;
 }
 
 @media (max-width: 767px) {
@@ -1617,7 +1617,7 @@ select::-ms-expand {
 }
 
 .order__img {
-  width: 120px;
+  width: 170px;
 }
 
 @media (max-width: 991px) {
@@ -1784,8 +1784,8 @@ select::-ms-expand {
   height: 55%;
   min-width: 65px;
   min-height: 65px;
-  padding: 3px;
-  font-size: 14px;
+  padding: 1px;
+  font-size: 12px;
   line-height: 68px;
   cursor: pointer;
   border-radius: 50%;
